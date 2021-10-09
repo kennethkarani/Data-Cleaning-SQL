@@ -10,3 +10,5 @@ These are the processes that will take place.
 4. Removing 'Y' and 'N' and replacing them with 'Yes' and 'No'.
 5. Removing duplicate rows that have the exact same information (must have been double entry)
 6. Deleting unused columns that offer no useful information. 
+
+<a href="https://www.kaggle.com/tmthyjames/nashville-housing-data-1/data">Raw Data Origin</a>
