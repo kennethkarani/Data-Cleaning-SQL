@@ -13,6 +13,12 @@ These are the processes that will take place.
 5. Removing duplicate rows that have the exact same information (must have been double entry).
 6. Deleting unused columns that offer no useful information. 
 
-Operations used:
+Operations used include:
 #### Join
+#### Substring
+#### ParseName
+#### Case
+#### RowNumber
+#### CTE
+#### Drop
 
